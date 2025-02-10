@@ -1,0 +1,17 @@
+https://github.com/YosysHQ/yosys
+https://github.com/amaranth-lang/amaranth
+https://github.com/m-labs/migen
+https://people.eecs.berkeley.edu/~alanmi/abc/
+https://github.com/ghdl/ghdl
+https://github.com/ghdl/ghdl-yosys-plugin
+https://github.com/povik/yosys-slang
+https://github.com/YosysHQ/nextpnr
+https://github.com/YosysHQ/icestorm
+https://github.com/YosysHQ/prjtrellis
+https://github.com/gatecat/prjoxide
+https://github.com/YosysHQ/apicula
+https://github.com/YosysHQ/sby
+https://github.com/trabucayre/openFPGALoader
+https://github.com/steveicarus/iverilog
+https://github.com/cocotb/cocotb
+https://github.com/verilator/verilator
